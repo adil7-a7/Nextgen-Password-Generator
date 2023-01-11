@@ -22,6 +22,7 @@ This program generates a password for the user by getting random elements from 4
 
 ## Screenshots
 Password Generated
+
 <img width="725" alt="Screenshot" src="https://user-images.githubusercontent.com/117782725/211689323-97af4113-ab20-4f5d-8b46-77231db09c9d.png">
 
 ## URL

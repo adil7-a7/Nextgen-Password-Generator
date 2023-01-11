@@ -10,7 +10,8 @@ This program generates a password for the user by getting random elements from 4
 * Special Characters
 
 ## User Acceptance Criteria
-1.The password should be generated when the button is clicked.
+1. The password should be generated when the button is clicked.
+
 2. Present a series of prompts for password criteria:
 * Minimum length of 10 characters
 * Maximum length of 64 characters
@@ -25,9 +26,9 @@ This program generates a password for the user by getting random elements from 4
 
 
 ## Screenshots
-*Password Generated
+Password Generated
 <img width="725" alt="Screenshot" src="https://user-images.githubusercontent.com/117782725/211689323-97af4113-ab20-4f5d-8b46-77231db09c9d.png">
 
 ## URL
-
+https://adil7-a7.github.io/Nextgen-Password-Generator/
 

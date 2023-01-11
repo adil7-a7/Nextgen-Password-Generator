@@ -1,8 +1,8 @@
 # PASSWORD GENERATOR PROGRAM
 
-## WEEK 6 CHALLENGE
+## WEEK 6 - FRONT END DEVELOPLMENT CHALLENGE
 
-This program  generates a password for the user by getting random elements from 4 different Character types (arrays):
+This program generates a password for the user by getting random elements from 4 different Character types (arrays):
 1. Lowercase
 2. Uppercase
 3. Numeric
@@ -12,10 +12,13 @@ This program  generates a password for the user by getting random elements from 
 1.The password should be generated when the button is   clicked.
 
 2. Present a series of prompts for password criteria:
-2.1. Minimum length of 10 characters
-2.2. Maximum length of 64 characters
-2.3. The following character types:
-2.3.1. Lowercase, Uppercase, Numeric, Special Characters
+    * Minimum length of 10 characters
+    * Maximum length of 64 characters
+    * The following character types:
+        *Lowercase
+        *Uppercase
+        *Numeric
+        *Special Characters
 
 3. Code should validate for each input and at least one character type should be selected.
 
